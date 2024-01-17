@@ -1,9 +1,9 @@
 ## Project(Project_Automobile-Sales-Visualization)
-### Part of the Coursera series: IBM Data Engineering & Python
+### Part of the Coursera series: IBM Data Science
     
 ## Summary
-Rather than work in Python, we took directly to the Linux Shell commands in order to draw data from files and folders.  We manipulated this information slighlty before then archiving the files in order to create a backup.  We automated this process as well by setting up the crontab functionality.
+In this project, we were tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.  We employed a number of data wrangling techniques before performing EDA adn then setting up a dashboard to visualize the results in realtime.
 
 ## Skills (Developed & Applied)
-Programming, Python, ETL &| ELT & Data Pipelines, Linux/Bash/Shell Commands
+Programming, Python, SciPy, Numpy, Pandas, Seaborn, Matplotlib, Plotly, Dash, Folium, Dataframes, ETL &| ELT & Data Pipelines, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Dashboards, Communication
     
